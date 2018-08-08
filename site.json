@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "regex": {
+    "include": "google\\.com",
+    "exclude": ""
+  },
+  "bcl": "bcl.js",
+  "text": "text.json",
+  "styles": "style.css"
+}

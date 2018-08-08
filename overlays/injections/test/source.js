@@ -1,0 +1,1 @@
+amaze.alert("hello");

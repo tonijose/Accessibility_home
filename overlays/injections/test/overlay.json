@@ -1,0 +1,9 @@
+{
+    "type": "injection",
+    "name": "test-form",
+    "regex": {
+      "include": ".*"
+    },
+    "source": "source.js"
+  }
+  
